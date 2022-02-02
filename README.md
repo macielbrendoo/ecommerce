@@ -21,3 +21,7 @@ Projeto desenvolvido durante o curso de kafka da alura, os seguintes tópicos fo
 * Verificar o conteúdo exato de uma mensagem em um programa
 * Deserialização customizada
 * Lidando com customização por serviço
+* como criar módulos
+* como manter tudo em um mono repo
+* como gerenciar dependências entre módulos
+* como gerar os binários de cada módulo
