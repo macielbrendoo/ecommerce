@@ -1,4 +1,4 @@
-#Kafka: Produtores, Consumidores e streams
+# Kafka: Produtores, Consumidores e streams
 
 Projeto desenvolvido durante o curso de kafka da alura, os seguintes tópicos foram apresentados durante o curso:
 
